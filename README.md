@@ -1,1 +1,1 @@
-# Custom Helm Chart to deploy odoo app on k8s cluster
+## Deploy oddo app helm chart using ArgoCD to k8s cluster
